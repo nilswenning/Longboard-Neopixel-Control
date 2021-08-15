@@ -2,4 +2,4 @@
 
 A small project I made when i was 14. 
 
-It runns on a ESP8266 and a Neopixel Webserver
+It runns on a ESP8266 and is a small Neopixel Webserver
